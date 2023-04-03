@@ -1,0 +1,26 @@
+.body{
+  /* background-color: gray; */
+}
+.card{
+width: 18rem;
+margin: auto;
+margin-top: 20%;
+margin-bottom: 20%;
+box-shadow: 20px 20px 20px  gray;
+border-radius: 10px;
+/* margin-right: 50%; */
+
+box-shadow: 5px 5px 5px gray );
+}
+.card-title{
+  text-align: center;
+  font-weight: 700;
+
+}
+.card-text{
+text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
